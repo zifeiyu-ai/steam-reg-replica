@@ -1,4 +1,4 @@
-# Steam 注册机（复刻版）
+# Steam 注册机
 
 基于 Python + PySide2 的 Steam 账号自动注册工具，支持批量邮箱导入、多线程注册、Steam 登录验证码一键拉取。
 
