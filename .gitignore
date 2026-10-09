@@ -7,9 +7,9 @@ build/
 .env
 config.ini
 output.txt
-test_run.py
-test_full.py
+test_*.py
 fetch_mail.py
+debug_*.py
 *.log
 .DS_Store
 Thumbs.db
