@@ -1,0 +1,7 @@
+PySide2>=5.15
+curl_cffi>=0.5
+orjson
+cryptography
+bcrypt
+certifi
+charset_normalizer

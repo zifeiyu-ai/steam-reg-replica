@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.env
+config.ini
+output.txt
+test_run.py
+test_full.py
+fetch_mail.py
+*.log
+.DS_Store
+Thumbs.db
